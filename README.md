@@ -10,16 +10,16 @@ building web apps that are clean, fast, and actually useful
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,nodejs,mongodb,mysql,git,github,vscode" />
 
-<br><br>
+<br>
+<br>
 
 Frontend → React • HTML • CSS • JavaScript  
-Backend → Django • Node.js • Express  
+Backend → Django • Node.js  
 Database → MongoDB • MySQL  
 <br>
 
 📧 nibrasmuhammed169@gmail.com
-
-<br><br>
+<br>
 
 <a href="www.linkedin.com/in/nibrasmuhammed169">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
